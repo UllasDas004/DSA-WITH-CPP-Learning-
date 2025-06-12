@@ -39,21 +39,37 @@ Whether you’re a beginner or revisiting core concepts, feel free to explore an
 Each folder is named after a DSA topic:
 
 ```
-01_Basics/
-02_Conditionals/
-03_Loops/
-04_Functions/
-...
-21_Linked_List/
-22_Stack/
-23_Stack_Problems/
-24_Queue/
-25_Tree/
-26_Heap/
-27_Sets_and_Maps/
-28_Graphs/
-...
-```
+01 Basics
+02 Conditionals
+03 Loops
+04 Functions
+05 Pointers
+07 Array
+08 Vector
+09 Matrix
+10 String
+11 Recursion
+12 Searching
+13 Sorting
+14 Prefix Sum
+15 Sliding Window
+16 Bitwise Operators
+17 OOPS
+18 Linked List
+19 Stack
+20 Stack Problems
+21 Queue
+22 Tree
+23 Heap
+24 Sets and Maps
+25 Graphs
+26 Dynamic Programming
+27 Greedy
+28 Backtracking
+29 Bit Manipulation
+30 Projects
+31 Tries
+
 
 ✅ Completed  
 🛠️ In Progress  
