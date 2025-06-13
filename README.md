@@ -1,3 +1,92 @@
+# DSA-WITH-CPP-Learning- 🚀
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-orange?style=for-the-badge)
+![Course Completed](https://img.shields.io/badge/Decode%20C%2B%2B%20with%20DSA%20(PW%20Skills)-Completed-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PW%20Skills-Online-blueviolet?style=for-the-badge&logo=googleclassroom)
+![Editor](https://img.shields.io/badge/VSCode-Used-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Table of Contents
+
+- [📖 About the Repository](#-about-the-repository)
+- [🎯 Course Completion Details](#-course-completion-details)
+- [🧠 Topics Covered](#-topics-covered)
+- [📅 Project Timeline](#-project-timeline)
+- [📜 Reflection & Learnings](#-reflection--learnings)
+- [📊 GitHub Stats](#-github-stats)
+- [🔗 Connect with Me](#-connect-with-me)
+
+---
+
+## 📖 About the Repository
+
+This repository contains most of the C++ and DSA problems I solved during my journey through the **Decode C++ with DSA** course by **PW Skills**.
+
+---
+
+## 🎯 Course Completion Details
+
+- ✅ **Course Name:** Decode C++ with DSA  
+- 🎓 **Platform:** PW Skills  
+- 📅 **70% Completion (certificate date):** 24th March 2025  
+- 🏁 **Actual Completion:** 12th June 2025  
+- 🧑‍🏫 **Faculty:** [Faculty Name 1], [Faculty Name 2], [Faculty Name 3], [Faculty Name 4]
+
+---
+
+## 🧠 Topics Covered
+
+- ✅ Arrays & Strings  
+- ✅ Recursion & Backtracking  
+- ✅ Linked List, Stack, Queue  
+- ✅ Trees & Binary Search Trees  
+- ✅ Heaps & Hashing  
+- ✅ Graphs, DSU  
+- ✅ Greedy, Bit Manipulation  
+- ✅ Dynamic Programming (DP), Knapsack
+
+---
+
+## 📅 Project Timeline
+
+| Milestone                        | Date             |
+|----------------------------------|------------------|
+| Course Enrolled                  | Jan 2025         |
+| 70% Completed (Certificate Date) | 24th March 2025  |
+| Final Completion                 | 12th June 2025   |
+| GitHub Repository Created        | [Insert Date]    |
+
+---
+
+## 📜 Reflection & Learnings
+
+This course has been a major turning point in my programming journey. It helped me:
+
+- Build a strong foundation in C++ and DSA
+- Develop consistent problem-solving habits
+- Understand real-world application of core algorithms
+- Prepare for coding platforms and interviews
+
+This repo is not just a collection of code — it’s a logbook of my growth.
+
+---
+
+## 📊 GitHub Stats
+
+![Ullas's GitHub stats](https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UllasDas004&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ullas%20Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ullas-das-819a50266/)  
+[![GitHub](https://img.shields.io/badge/GitHub-UllasDas004-black?style=flat-square&logo=github)](https://github.com/UllasDas004)
+
+---
 
 # 🚀 DSA with C++ – Learning Journey
 
