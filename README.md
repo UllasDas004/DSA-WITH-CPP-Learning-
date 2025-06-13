@@ -56,7 +56,6 @@ This repository contains most of the C++ and DSA problems I solved during my jou
 | Course Enrolled                  | Jan 2025         |
 | 70% Completed (Certificate Date) | 24th March 2025  |
 | Final Completion                 | 12th June 2025   |
-| GitHub Repository Created        | [Insert Date]    |
 
 ---
 
@@ -83,7 +82,7 @@ This repo is not just a collection of code — it’s a logbook of my growth.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ullas%20Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ullas-das-819a50266/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ullas%20Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ullas-das/)  
 [![GitHub](https://img.shields.io/badge/GitHub-UllasDas004-black?style=flat-square&logo=github)](https://github.com/UllasDas004)
 
 ---
