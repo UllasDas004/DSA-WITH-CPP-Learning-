@@ -1,7 +1,12 @@
+# DSA-WITH-CPP-Learning- 🚀
 
-# 🚀 DSA with C++ – Learning Journey
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-orange?style=for-the-badge)
+![Course Completed](https://img.shields.io/badge/Decode%20C%2B%2B%20with%20DSA%20(PW%20Skills)-Completed-brightgreen?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PW%20Skills-Online-blueviolet?style=for-the-badge&logo=googleclassroom)
+![Editor](https://img.shields.io/badge/VSCode-Used-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Welcome to my personal repository where I document my journey of mastering **Data Structures and Algorithms (DSA)** using **C++**. This repo contains topic-wise organized folders with C++ implementations, examples, and practice problems I've solved while learning.
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++17-blue.svg" />
@@ -12,25 +17,40 @@ Welcome to my personal repository where I document my journey of mastering **Dat
 
 ---
 
-## 📘 Table of Contents
+## 📚 Table of Contents
 
-- [📚 About the Repository](#-about-the-repository)
+- [📖 About the Repository](#-about-the-repository)
+- [🎯 Course Completion Details](#-course-completion-details)
 - [🧠 Topics Covered](#-topics-covered)
+- [📅 Project Timeline](#-project-timeline)
+- [📜 Reflection & Learnings](#-reflection--learnings)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🔧 How to Use](#-how-to-use)
 - [🎯 Learning Roadmap](#-learning-roadmap)
 - [📈 My Progress](#-my-progress)
+- [📊 GitHub Stats](#-github-stats)
 - [🙌 Contributing](#-contributing)
 - [📫 Contact Me](#-contact-me)
 - [🏁 Final Words](#-final-words)
 
 ---
 
-## 📚 About the Repository
+## 📖 About the Repository
 
-This repository is a structured collection of C++ code that I’ve written while learning **Data Structures and Algorithms (DSA)**. It reflects a consistent and practical journey through all key DSA topics.
+Welcome to my personal repository where I document my journey of mastering **Data Structures and Algorithms (DSA)** using **C++**.  
+This repo contains **topic-wise folders** with C++ implementations, examples, and problems I solved while learning through **Decode C++ with DSA** by PW Skills.
 
-Whether you’re a beginner or revisiting core concepts, feel free to explore and reuse these implementations.
+Whether you’re a beginner or revisiting core concepts, feel free to explore and reuse the code here.
+
+---
+
+## 🎯 Course Completion Details
+
+- ✅ **Course Name:** Decode C++ with DSA  
+- 🎓 **Platform:** PW Skills  
+- 📅 **70% Completion (certificate date):** 24th March 2025  
+- 🏁 **Actual Completion:** 12th June 2025  
+- 🧑‍🏫 **Faculty:** [Faculty Name 1], [Faculty Name 2], [Faculty Name 3], [Faculty Name 4]
 
 ---
 
@@ -70,11 +90,34 @@ Each folder is named after a DSA topic:
 30 Projects
 31 Tries
 
-
 ✅ Completed  
 🛠️ In Progress  
 🕒 Planned
 ```
+
+---
+
+## 📅 Project Timeline
+
+| Milestone                        | Date             |
+|----------------------------------|------------------|
+| Course Enrolled                  | Jan 2025         |
+| 70% Completed (Certificate Date) | 24th March 2025  |
+| Final Completion                 | 12th June 2025   |
+
+---
+
+## 📜 Reflection & Learnings
+
+This course has been a major turning point in my programming journey. It helped me:
+
+- Build a strong foundation in C++ and DSA
+- Develop consistent problem-solving habits
+- Understand real-world applications of core algorithms
+- Prepare for coding platforms and interviews
+
+This repo is not just a collection of code — it’s a **logbook of growth**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -136,6 +179,14 @@ Each folder is named after a DSA topic:
 
 ---
 
+## 📊 GitHub Stats
+
+![Ullas's GitHub stats](https://github-readme-stats.vercel.app/api?username=UllasDas004&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=UllasDas004&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UllasDas004&layout=compact&theme=tokyonight)
+
+---
+
 ## 🙌 Contributing
 
 Although this is a personal learning repo:
@@ -149,13 +200,13 @@ Although this is a personal learning repo:
 ## 📫 Contact Me
 
 - GitHub: [@UllasDas004](https://github.com/UllasDas004)
-- LinkedIn: [linkedin.com/in/ullasdas004](https://www.linkedin.com/in/ullasdas004/)
+- LinkedIn: [linkedin.com/in/ullasdas004](https://www.linkedin.com/in/ullas-das/)
 
 ---
 
 ## 🏁 Final Words
 
-This is more than just a repo—it's the reflection of hours of effort, curiosity, and learning consistency.  
+This is more than just a repo—it's the reflection of hours of effort, curiosity, and consistent learning.  
 I hope it helps you in your own DSA or C++ journey. Let’s keep learning and growing together! 🌱
 
 > “Practice doesn’t make perfect. Practice makes progress.”
