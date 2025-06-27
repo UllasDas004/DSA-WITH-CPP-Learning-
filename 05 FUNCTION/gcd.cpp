@@ -19,7 +19,7 @@ int gcd(int x,int y)
 int main()
 {
     int a,b;
-    cout<<"Enter firest number:- ";
+    cout<<"Enter first number:- ";
     cin>>a;
     cout<<"Enter second number:- ";
     cin>>b;
