@@ -5,7 +5,7 @@ using namespace std;
 #define ll long long
 #define MOD 998244353
 ll dp[2002][2002];
-// this calculates basically combination(n-1,k)
+// this calculates basically combination(n,k+1)
 ll rec(ll n,ll k)
 {
     if(k >= n) return 0;
